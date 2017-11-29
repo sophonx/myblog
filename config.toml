@@ -1,4 +1,4 @@
-baseurl = " https://sophonx.github.io/myblog/"
+baseurl = "sophonx.github.io/myblog/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
