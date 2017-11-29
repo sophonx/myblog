@@ -1,4 +1,4 @@
-baseurl = "sophonx.github.io/myblog/"
+baseurl = "https://sophonx.github.io/myblog/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -45,7 +45,7 @@ paginate = 5
 	
 	[[params.navlinks]]
 	name = "Blog"
-	url = ""
+	url = "post/"
 	
 	[[params.navlinks]]
 	name = "Tutorials"
