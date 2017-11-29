@@ -2,24 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MY NAME</title>
-    <link>https://alexurquhart.github.io/hugo-geo/post/index.xml</link>
+    <link>https://sophonx.github.io/myblog/post/</link>
     <description>Recent content in Posts on MY NAME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2015 09:32:45 -0400</lastBuildDate>
-    <atom:link href="https://alexurquhart.github.io/hugo-geo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://sophonx.github.io/myblog/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Welcome to Hugo-Geo!</title>
-      <link>https://alexurquhart.github.io/hugo-geo/post/welcome/</link>
-      <pubDate>Tue, 28 Jul 2015 09:32:45 -0400</pubDate>
+      <title></title>
+      <link>https://sophonx.github.io/myblog/post/articles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alexurquhart.github.io/hugo-geo/post/welcome/</guid>
-      <description>&lt;p&gt;Welcome to hugo-geo, a resposive theme for the &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo static site generator.&lt;/a&gt; Hugo is designed for &lt;code&gt;post&lt;/code&gt; and &lt;code&gt;tutorial&lt;/code&gt; sections, and is perfect for personal
-portfolio or blog sites.&lt;/p&gt;
-
-&lt;p&gt;Why don&amp;rsquo;t you check out the &lt;a href=&#34;https://alexurquhart.github.io/hugo-geo/hugo-geo/tutorial/getting-started/&#34;&gt;Getting Started Tutorial&lt;/a&gt; and find out how you can use hugo-geo and customize it to your liking.&lt;/p&gt;
-</description>
+      <guid>https://sophonx.github.io/myblog/post/articles/</guid>
+      <description>0 - NaNoGenMo, or National Novel Generation Month, may sound like a parody of NaNoWriMo at first: write code that generates a novel of 50,000+ words The developer and artist Darius Kazemi started NaNoGenMo [in 2013], when he tweeted out an off-the-cuff idea. &amp;ldquo;Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel &amp;amp; the code at the end?</description>
     </item>
     
   </channel>
